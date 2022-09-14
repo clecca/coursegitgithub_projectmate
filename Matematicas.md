@@ -1,6 +1,6 @@
 # Nuestro cliente es el mejor
 
-Esto es un fichero muy bueno. Esto son unos cambios que se aplicaran con Rebase.
+Esto es un fichero muy bueno. Esto son unos cambios que se aplicaran con Rebase y han sido exitosos.
 
 Hola esto es un fichero de lectura para nuestro repositorios.
 
