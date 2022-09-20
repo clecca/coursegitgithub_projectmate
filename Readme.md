@@ -5,3 +5,7 @@ Esto sera un fichero para mostrar los commits a revertir. El cliente ya puede se
 Primer commit
 
 Segundo commit
+
+## Descripción el curso
+
+Desde GitHub Desktop
